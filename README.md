@@ -1,3 +1,5 @@
+Сайт [https://devtrends.ru/go/trufflesecurity-trufflehog]
+
 TruffleHog + mitmproxy: перехват HTTP‑трафика и поиск секретов
 Цель: перехватывать HTTP/HTTPS‑трафик браузера через mitmproxy, сохранять ответы в файлы и сканировать их TruffleHog’ом на наличие секретов (пароли, токены, API‑ключи и т.п.).
 
